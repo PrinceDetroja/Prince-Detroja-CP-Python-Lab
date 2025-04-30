@@ -1,0 +1,13 @@
+#Count how many vowels are there in string
+str=input("Enter a string: ")
+a=str.count("a")
+e=str.count("e")
+i=str.count("i")
+o=str.count("o")
+u=str.count("u")
+A=str.count("A")
+E=str.count("E")
+I=str.count("I")
+O=str.count("O")
+U=str.count("U")
+print(a+e+i+o+u+A+E+I+O+U)
